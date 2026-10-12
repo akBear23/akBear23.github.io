@@ -1,0 +1,99 @@
+cv:
+  name: Ha-Lan (Alan) Nguyen
+  label: AI Researcher
+  email: lan.nth@vinuni.edu.vn
+  location: Ha Noi, Viet Nam
+  image: ""
+  summary: AI researcher working on latent reasoning, mechanistic interpretability, and representation learning for reasoning models.
+
+  social_networks:
+    - network: GitHub
+      username: akBear23
+    - network: LinkedIn
+      username: ha-lan-nguyen-baa961275
+
+  sections:
+    Education:
+      - institution: VinUniversity
+        location: Ha Noi, Viet Nam
+        area: Computer Science
+        studyType: Master of Science
+        start_date: 2026
+        end_date: 2027
+        highlights:
+          - Full-tuition scholarship
+
+      - institution: FPT University
+        location: Ha Noi, Viet Nam
+        area: Artificial Intelligence
+        studyType: Bachelor
+        start_date: 2022
+        end_date: 2026
+        score: "GPA: 3.91/4.0 (9.14/10)"
+        highlights:
+          - Valedictorian, Class of 2026 · <a href="https://thanhnien.vn/chuyen-phia-sau-gpa-916-va-suat-viec-lam-khi-chua-tot-nghiep-cua-mot-thu-khoa-185260918233712975.htm" target="_blank">featured in Thanh Niên</a>
+          - Full-tuition scholarship
+
+    Research Experience:
+      - company: VinUniversity
+        position: Research Student
+        location: Ha Noi, Viet Nam
+        start_date: 2025-01
+        end_date: present
+        highlights:
+          - "OBC-Prune: outcome-based calibration for one-shot pruning of large reasoning models, using interventional causal scoring of chain-of-thought sentences to reweight SparseGPT, Wanda, and ALPS calibration. Improves accuracy on MATH500, LiveCodeBench, and AIME 2025."
+          - "Latent Abstraction for RAG (NeurIPS 2026): retrieval performed entirely in the LLM's latent space via a [PRED] token and an adaptive Retrieval Control Head. SOTA on HotpotQA, 2WikiMQA, and MuSiQue with ~30× fewer generated tokens than text-based iterative RAG."
+          - "SurveyG (ICML 2026 AI4Science Workshop): multi-agent survey generation over a hierarchical citation graph; Citation Recall 91.40 vs. 88.34 for SurveyForge."
+
+      - company: FPT University
+        position: Research Assistant
+        location: Ha Noi, Viet Nam
+        start_date: 2023-09
+        end_date: 2024-06
+        highlights:
+          - Experimental comparison of graph-based, community-based, and generative models for top-N recommendation (ACMLC 2025).
+          - Systematic review of AI integration in STEM education covering 100+ studies (ICSCA 2025).
+
+    Professional Experience:
+      - company: Viettel Group
+        position: AI Engineer
+        location: Ha Noi, Viet Nam
+        start_date: 2024-03
+        end_date: 2025-11
+        summary: Optimized and maintained the recommendation system and search engine for TV360, Viettel's television service with over 72 million users.
+        highlights:
+          - Built a Smart Search pipeline (LLM + BERT) with +30% CTR, served via Triton Inference Server, vLLM, and Nginx.
+          - Fine-tuned small language models for intent classification (+20% F1) and NER (98% F1) using SFT, DPO, and GRPO with LoRA.
+          - Reduced search latency by 40% (avg. 94 ms) through inference optimization and ELK-based monitoring.
+
+    Awards:
+      - title: Top 1 / 198 teams, Viettel AI Challenge 2024
+        date: 2024
+        awarder: Viettel
+      - title: Top 2 / 8000 participants, Viettel Digital Talent Program 2024
+        date: 2024
+        awarder: Viettel
+      - title: Top 8 Finalist, Pixta AI Hackathon 2024 (Face Analysis Challenge)
+        date: 2024
+        awarder: Pixta
+      - title: Second place, Tech Club Championship 2023 (competitive programming)
+        date: 2023
+        awarder: FPT University
+      - title: Nitori Scholarship
+        date: 2024
+        awarder: Nitori
+      - title: Full-tuition scholarship
+        date: 2022
+        awarder: FPT University
+
+    Skills:
+      - name: Research Areas
+        keywords: "Large Reasoning Models, Latent Reasoning, Representation Learning, RAG, Mechanistic Interpretability, Agentic Systems"
+      - name: ML Frameworks
+        keywords: "PyTorch, Hugging Face Transformers, DeepSpeed, PEFT, FlashAttention-2"
+      - name: LLM Training
+        keywords: "SFT, DPO, GRPO, LoRA, Knowledge Distillation, Contrastive Learning"
+      - name: Systems
+        keywords: "Triton Inference Server, vLLM, Docker, Elasticsearch, FAISS"
+      - name: Languages
+        keywords: "Python, C++"
