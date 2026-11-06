@@ -21,7 +21,8 @@ latest_posts:
   enabled: false
 ---
 
-I am an AI researcher working at the intersection of **latent reasoning**, **mechanistic interpretability**, and **representation learning** for reasoning models. My research investigates how language models can reason through predictive latent representations, and how these representations can make reasoning more efficient. I am particularly interested in understanding the computational mechanisms underlying reasoning and in developing open-source methods that improve the capability, efficiency, and transparency of foundation models.
+I am interested in investigating how language models can reason through their latent representations and how these representations can enable more efficient reasoning.
+And, I love producing impactful works.
 
 I am currently a master's student at VinUniversity, where I conduct research under the supervision of [Prof. Le D. Dung](https://scholar.google.com/citations?user=0eoYR1gAAAAJ&hl=vi) and recently worked on a project under the guidance of [Prof. Trac D. Tran](https://scholar.google.com.vn/citations?user=RyRjA0cAAAAJ&hl=vi). Before that, I received my B.Sc. in Artificial Intelligence from FPT University and worked as an AI Engineer at [Viettel Group](https://viettel.com.vn/en/), building search and recommendation systems for [TV360](https://tv360.vn/), which serves over 72M users.
 
